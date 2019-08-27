@@ -28,7 +28,7 @@ https://cdn.jsdelivr.net/gh/tematriq/logos/svg/ovo.svg
 https://cdn.jsdelivr.net/gh/tematriq/logos/svg/patreon.svg
 https://cdn.jsdelivr.net/gh/tematriq/logos/svg/paypal.svg
 https://cdn.jsdelivr.net/gh/tematriq/logos/svg/shopee.svg
-https://cdn.jsdelivr.net/gh/tematriq/logos/tematriq.svg
+https://cdn.jsdelivr.net/gh/tematriq/logos/svg/tematriq.svg
 https://cdn.jsdelivr.net/gh/tematriq/logos/svg/tokopedia.svg
 https://cdn.jsdelivr.net/gh/tematriq/logos/svg/triv.svg
 https://cdn.jsdelivr.net/gh/tematriq/logos/svg/youtubesubscribe.svg
