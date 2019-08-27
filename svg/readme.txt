@@ -1,8 +1,8 @@
 https://cdn.jsdelivr.net/gh/tematriq/logos/svg/[logo-name].svg
 
-https://cdn.jsdelivr.net/gh/tematriq/logos/aliexpress.svg
-https://cdn.jsdelivr.net/gh/tematriq/logos/amazon.svg
-https://cdn.jsdelivr.net/gh/tematriq/logos/applepay.svg
+https://cdn.jsdelivr.net/gh/tematriq/logos/svg/aliexpress.svg 
+https://cdn.jsdelivr.net/gh/tematriq/logos/svg/amazon.svg
+https://cdn.jsdelivr.net/gh/tematriq/logos/svg/applepay.svg
 https://cdn.jsdelivr.net/gh/tematriq/logos/bitcoin.svg
 https://cdn.jsdelivr.net/gh/tematriq/logos/blibli.svg
 https://cdn.jsdelivr.net/gh/tematriq/logos/blogger.svg
